@@ -1,5 +1,11 @@
+HEAD
 # Emprega-Tech 💼
 Emprega Tech é uma plataforma simples, funcional e direta ao ponto, desenvolvida para conectar profissionais de tecnologia às melhores oportunidades do mercado.
+
+# Emprega-Tech  💼
+
+ Emprega Tech é uma plataforma simples, funcional e direta ao ponto, desenvolvida para conectar profissionais de tecnologia às melhores oportunidades do mercado.
+ 
 
 🚀 Objetivo
 O projeto tem como foco central facilitar a busca por vagas de emprego na área de TI, oferecendo uma interface intuitiva, rápida e responsiva tanto para candidatos quanto para empresas.
